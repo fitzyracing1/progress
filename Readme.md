@@ -1,5 +1,7 @@
 # @fitzyracing/progress
 
+> Part of **[360 Bench](https://github.com/fitzyracing1/360-bench)**, tested fixes for abandoned npm packages.
+
 Flexible ascii progress bar.
 
 [![npm](https://img.shields.io/npm/v/@fitzyracing/progress.svg)](https://www.npmjs.com/package/@fitzyracing/progress)
