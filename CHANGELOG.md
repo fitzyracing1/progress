@@ -1,4 +1,13 @@
 
+2.0.4 / 2026-10-07 (@fitzyracing/progress fork)
+===============================================
+
+  * Fix: `RangeError: Invalid array length` when `total` is `NaN` (e.g. missing content-length), `0` or fractional (#166)
+  * Fix: `RangeError: Invalid array length` when the stream has no `columns` (forced TTY / custom streams) (#166)
+  * Fix: fall back to the available width when `width` is not a number (#205)
+  * Fix: `interrupt()` crashing with `clearLine is not a function` on non-TTY streams (#224)
+  * Test: add a minimal `node:test` regression suite (`npm test`)
+
 2.0.0 / 2017-04-04
 ==================
 

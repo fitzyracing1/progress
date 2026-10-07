@@ -3,3 +3,6 @@ node_modules
 *.sock
 npm-debug.log
 yarn.lock
+
+# Output of npm pack
+*.tgz
