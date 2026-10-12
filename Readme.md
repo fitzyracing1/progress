@@ -237,3 +237,8 @@ rather than a public issue.
 copyright notice are retained unchanged; fork changes are released under the same license.
 
 Original project: https://github.com/visionmedia/node-progress
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/progress/wiki](https://github.com/fitzyracing1/progress/wiki)
