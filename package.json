@@ -1,6 +1,6 @@
 {
   "name": "@fitzyracing/progress",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Flexible ascii progress bar (maintained fork of progress with crash fixes)",
   "repository": {
     "type": "git",
